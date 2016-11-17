@@ -1,0 +1,9 @@
+.list img {
+    width: 100%;
+}
+
+.container {
+    padding: 10px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+}
